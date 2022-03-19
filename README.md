@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamedouf.netlify.app/#/home](https://mohamedouf.netlify.app/#/home)
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular**  **Node JS**
 
 - 📫 How to reach me **mohamedouf501@gmail.com**
 
