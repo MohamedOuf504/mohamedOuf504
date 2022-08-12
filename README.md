@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [eshop BackEnd](https://github.com/MohamedOuf504/eshopBackEnd)  **--**  [eshop FrontEnd](https://github.com/MohamedOuf504/eshopFrontEnd)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **linux administration**
 
 - 👨‍💻 All of my projects are available at [https://mohamedouf.netlify.app/#/home](https://mohamedouf.netlify.app/#/home)
 
