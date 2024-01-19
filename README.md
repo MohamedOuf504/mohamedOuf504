@@ -1,25 +1,42 @@
+# Mohamed Ouf
 
-<h1 align="center">Hi 👋, I'm Mohamed Ouf</h1>
-<h3 align="center">Full stack developer (Angular | Node js)</h3>
+## Back-End Engineer | Node.js Specialist
 
-- 🔭 I’m currently working on [eshop BackEnd](https://github.com/MohamedOuf504/eshopBackEnd)  **--**  [eshop FrontEnd](https://github.com/MohamedOuf504/eshopFrontEnd)
+![GitHub followers](https://img.shields.io/github/followers/mohamedouf501?style=social) ![GitHub stars](https://img.shields.io/github/stars/mohamedouf501?style=social)
 
-- 🌱 I’m currently learning **linux administration**
+🌍 **Location:** Cairo, Egypt
 
-- 👨‍💻 All of my projects are available at [https://mohamedouf.netlify.app/#/home](https://mohamedouf.netlify.app/#/home)
+### 📫 Connect with me:
+- Email: [mohamedouf501@gmail.com](mailto:mohamedouf501@gmail.com)
+- LinkedIn: [mohamedouf501](https://www.linkedin.com/in/mohamedouf501)
+- GitHub: [mohamedouf501](https://github.com/mohamedouf501)
 
-- 💬 Ask me about **Angular**  **Node JS**
+---
 
-- 📫 How to reach me **mohamedouf501@gmail.com**
+### 💬 About Me:
+Node.js developer with +2 years of experience in back-end development, focusing on creating robust server-side applications. Passionate about building scalable systems and solving complex problems.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamedouf501/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamedouf501/" height="30" width="40" /></a>
-</p>
+### 🏢 Experience:
+- **Software Engineer - Node JS** at Aydi (Apr 2023 - Present)
+- **Junior Backend Engineer | Node Js** at Stackzy (Mar 2022 - Apr 2023)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🎓 Education:
+- **BSc in Agricultural Sciences**, Ain Shams University (2014-2019)
+- **Full-Stack Developer Diploma**, Route Academy (Dec 2020 - Mar 2022)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedouf504&show_icons=true&locale=en&layout=compact" alt="mohamedouf504" /></p>
+### 📜 Certifications:
+- **AWS Certified Cloud Practitioner** (June 2023 - June 2026)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedouf504&show_icons=true&locale=en" alt="mohamedouf504" /></p>
+### 🛠 Skills & Proficiencies:
+- **Languages & Frameworks:** Node.js, Express.js, Nest.js, Angular
+- **Databases:** MongoDB, MySQL, MariaDB, Redis
+- **DevOps & Tools:** Docker, Kubernetes, AWS, Linux Administration, CI/CD
+- **Other Skills:** WebSocket, Agile Development, Data Structures, Algorithms, TypeScript, HTML, CSS
+
+---
+
+🚀 **Check out my repositories for my latest projects and contributions!**
+
+---
+
+Feel free to reach out for collaborations or just to chat about technology!
