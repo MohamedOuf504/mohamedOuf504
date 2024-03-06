@@ -14,7 +14,7 @@
 ---
 
 ### 💬 About Me:
-Node.js developer with +2 years of experience in back-end development, focusing on creating robust server-side applications. Passionate about building scalable systems and solving complex problems.
+Node.js developer with +3 years of experience in back-end development, focusing on creating robust server-side applications. Passionate about building scalable systems and solving complex problems.
 
 ### 🏢 Experience:
 - **Software Engineer - Node JS** at Aydi (Apr 2023 - Present)
